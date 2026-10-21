@@ -20,7 +20,7 @@
 
 > [!NOTE]
 > ### 👋 Un saludo del autor
-> *¡Hola a todos! Este proyecto lo desarrollé con mucho entusiasmo en el **2024** para el ecosistema **Código Ártico**. Decidí liberarlo de manera completamente abierta y gratuita para que la comunidad de desarrolladores, estudiantes y emprendedores puedan utilizarlo, estudiarlo o tomarlo como base para sus propios proyectos comerciales pequeños y medianos. ¡Espero de corazón que les sea de mucha utilidad y les ahorre cientos de horas de trabajo!*
+> *¡Hola a todos! Este proyecto lo desarrollé en el **2024** para el ecosistema **Código Ártico**. Decidí liberarlo de manera abierta y gratuita para que la comunidad de desarrolladores, estudiantes o emprendedores puedan utilizarlo, revisarlo o tomarlo como base para algún proyecto pequeño. ¡Espero que les sea de utilidad y les sirva de apoyo en sus ideas!*
 
 ---
 
